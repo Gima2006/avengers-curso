@@ -17,3 +17,6 @@
 * Vision
 * Wasp
 * Antman
+* Capitan Marvel
+* Spiderman
+* Espadaman
